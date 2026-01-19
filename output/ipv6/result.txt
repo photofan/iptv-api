@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-19 06:37:31,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-01-19 18:46:46,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -970,10 +970,12 @@ TVBS欢乐台,https://stream1.freetv.fun/188652858e7e439b9b9bee3e93017217944e727
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华戏剧,https://stream1.freetv.fun/7571dae9c85b7c954f2abfeac122340ecbdb0b7ab44c3eb785729cb648378dd4.ctv
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华偶像,https://stream1.freetv.fun/0573c868b50d77a847b27aac5aae897863bb74e836b008b421ed1b9d2375a88a.ctv
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华日韩,https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.ctv
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华经典,https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 纬来体育台,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
 纬来体育台,https://tv.iill.top/x/wlty

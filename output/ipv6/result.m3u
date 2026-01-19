@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/photofan/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-19 06:37:31
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-19 18:46:46
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV1
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -1917,6 +1917,8 @@ https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 https://stream1.freetv.fun/7571dae9c85b7c954f2abfeac122340ecbdb0b7ab44c3eb785729cb648378dd4.ctv
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="龙华偶像.png" group-title="🇹🇼台湾频道",龙华偶像
 https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="龙华偶像.png" group-title="🇹🇼台湾频道",龙华偶像
+https://stream1.freetv.fun/0573c868b50d77a847b27aac5aae897863bb74e836b008b421ed1b9d2375a88a.ctv
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="龙华日韩.png" group-title="🇹🇼台湾频道",龙华日韩
 https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="龙华日韩.png" group-title="🇹🇼台湾频道",龙华日韩
@@ -1925,6 +1927,8 @@ https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="龙华经典.png" group-title="🇹🇼台湾频道",龙华经典
 https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="龙华经典.png" group-title="🇹🇼台湾频道",龙华经典
+https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv
 #EXTINF:-1 tvg-name="龙华卡通" tvg-logo="龙华卡通.png" group-title="🇹🇼台湾频道",龙华卡通
 https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="纬来体育台.png" group-title="🇹🇼台湾频道",纬来体育台
