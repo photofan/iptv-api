@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-21 18:47:46,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-01-22 06:40:31,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -234,6 +234,7 @@ CGTN英语,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN俄语,https://stream1.freetv.fun/f0566e27a6b410caf685972d54201bc86de6f28678900e2011777ff5c5f41862.m3u8
 CGTN俄语,https://stream1.freetv.fun/a3b0877061acab9b825f1a899cdfd9a819a7c4b511f605b98ba7482e9d30972d.m3u8
+CGTN俄语,https://stream1.freetv.fun/ae7a93b71e468c55e8227f731550520a0948552f12e429cd6499a4888f605b95.ctv
 风云足球,http://www.xiaomo520.cn:4020/udp/239.252.219.96:5140
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
@@ -1208,6 +1209,7 @@ CCTV14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
 嘉佳卡通,https://stream1.freetv.fun/f6ade9a94d8e7750967ba281d6ebb850872f3207942406065aecd80ed1bacf9e.m3u8
 嘉佳卡通,https://stream1.freetv.fun/5c1ec3b3357fd9a691dbb998aebd5d534ee6fcdf2b655ef5da54baab72255be0.ctv
 嘉佳卡通,https://stream1.freetv.fun/e98b490c7d24e6659c2ef4bb630d8d89f29ea705f901019e60571ec70b4dc0f1.m3u8
+嘉佳卡通,https://stream1.freetv.fun/e98b490c7d24e6659c2ef4bb630d8d89f29ea705f901019e60571ec70b4dc0f1.ctv
 哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
 哈哈炫动,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226931/1.m3u8
 哈哈炫动,https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-10.m3u8
