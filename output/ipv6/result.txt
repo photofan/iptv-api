@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-25 06:34:36,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-01-26 06:35:51,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -822,6 +822,7 @@ ViuTV,https://stream1.freetv.fun/6e51cfdfdd9988358bd19ac505badd794b005798348da27
 ViuTVsix,https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a8bc405771fb.m3u8
 ViuTVsix,https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.ctv
 ViuTVsix,https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b4db2afffb8d819b3cdec.ctv
+ViuTVsix,https://stream1.freetv.fun/ce4208cdaf6dcc01956efaddc24e96306eb0fd469310323ca725bee397ffb325.ctv
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
