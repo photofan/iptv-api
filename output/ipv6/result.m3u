@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/photofan/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-28 18:50:40
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-29 06:44:12
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -471,6 +471,8 @@ https://stream1.freetv.fun/ae7a93b71e468c55e8227f731550520a0948552f12e429cd6499a
 https://stream1.freetv.fun/d770589ec9e5106747c7b2389bbc7c43c21c0a8146a9657ea8bd335ee2c75233.ctv
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="📺央视频道",CGTN俄语
 https://stream1.freetv.fun/e8ec2894b7afdb59e2936da792510bc9af4a37368f0c01b83769d3daf87de84d.ctv
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="📺央视频道",CGTN俄语
+https://stream1.freetv.fun/d770589ec9e5106747c7b2389bbc7c43c21c0a8146a9657ea8bd335ee2c75233.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="📺央视频道",风云足球
 http://www.xiaomo520.cn:4020/udp/239.252.219.96:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="📺央视频道",风云足球

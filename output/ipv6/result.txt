@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-28 18:50:40,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-01-29 06:44:12,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -237,6 +237,7 @@ CGTN俄语,https://stream1.freetv.fun/a3b0877061acab9b825f1a899cdfd9a819a7c4b511
 CGTN俄语,https://stream1.freetv.fun/ae7a93b71e468c55e8227f731550520a0948552f12e429cd6499a4888f605b95.ctv
 CGTN俄语,https://stream1.freetv.fun/d770589ec9e5106747c7b2389bbc7c43c21c0a8146a9657ea8bd335ee2c75233.ctv
 CGTN俄语,https://stream1.freetv.fun/e8ec2894b7afdb59e2936da792510bc9af4a37368f0c01b83769d3daf87de84d.ctv
+CGTN俄语,https://stream1.freetv.fun/d770589ec9e5106747c7b2389bbc7c43c21c0a8146a9657ea8bd335ee2c75233.m3u8
 风云足球,http://www.xiaomo520.cn:4020/udp/239.252.219.96:5140
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
