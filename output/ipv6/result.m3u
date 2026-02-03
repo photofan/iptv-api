@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/photofan/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-03 18:57:15
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-04 06:44:39
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -1977,6 +1977,8 @@ https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b7
 https://stream1.freetv.fun/cc3ac399d86099e5a3206d38ac3738ad97285b606895947d3786fbcd544081fd.ctv
 #EXTINF:-1 tvg-name="非凡新闻台" tvg-logo="https://live.fanmingming.cn/tv/非凡新闻台.png" group-title="🇹🇼台湾频道",非凡新闻台
 https://stream1.freetv.fun/2124ac11b91345b0e1d6d8e1ebccb4bacc91f4110ebf48ccced1b7a9c6221331.m3u8
+#EXTINF:-1 tvg-name="非凡新闻台" tvg-logo="https://live.fanmingming.cn/tv/非凡新闻台.png" group-title="🇹🇼台湾频道",非凡新闻台
+https://stream1.freetv.fun/a74cfddea020652e0f056eabc4a5848a698277ba87ad5da3079a3f827812ae18.ctv
 #EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://live.fanmingming.cn/tv/镜新闻.png" group-title="🇹🇼台湾频道",镜新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.cn/tv/龙华电影.png" group-title="🇹🇼台湾频道",龙华电影
