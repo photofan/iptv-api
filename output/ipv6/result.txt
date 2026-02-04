@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-04 18:53:42,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-02-05 06:43:38,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -246,6 +246,8 @@ CGTN俄语,https://stream1.freetv.fun/d770589ec9e5106747c7b2389bbc7c43c21c0a8146
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,https://t.freetv.fun/live/cctvfeng-yun-zu-qiu.m3u8
+风云足球,http://www.xiaomo520.cn:4020/udp/239.252.219.96:5140
+风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 央视台球,http://www.xiaomo520.cn:4020/udp/239.252.219.80:5140
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 央视台球,https://hls-gateway.vpstv.net/streams/708855.m3u8
