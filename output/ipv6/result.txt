@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-16 06:43:20,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-02-16 19:11:03,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -247,26 +247,32 @@ CGTN俄语,https://stream1.freetv.fun/d770589ec9e5106747c7b2389bbc7c43c21c0a8146
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,https://t.freetv.fun/live/cctvfeng-yun-zu-qiu.m3u8
+风云足球,http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
 央视台球,http://www.xiaomo520.cn:4020/udp/239.252.219.80:5140
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 央视台球,https://hls-gateway.vpstv.net/streams/708855.m3u8
 央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+央视台球,http://www.qfly9236.cn:8888/rtp/239.253.93.231:6409
 高尔夫网球,http://www.xiaomo520.cn:4020/udp/239.252.219.95:5140
 高尔夫网球,https://hls-gateway.vpstv.net/streams/708857.m3u8
 高尔夫网球,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV-GOLF-CQ
+高尔夫网球,http://www.qfly9236.cn:8888/rtp/239.253.92.117:8062
 风云剧场,http://www.xiaomo520.cn:4020/udp/239.252.219.89:5140
 风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8
 风云剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNJC-CQ
 风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
 风云音乐,http://www.xiaomo520.cn:4020/udp/239.252.219.87:5140
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+风云音乐,http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
 怀旧剧场,http://www.xiaomo520.cn:4020/udp/239.252.219.90:5140
 怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
 怀旧剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+怀旧剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
 第一剧场,http://www.xiaomo520.cn:4020/udp/239.252.219.86:5140
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 第一剧场,https://hls-gateway.vpstv.net/streams/708862.m3u8
@@ -277,8 +283,10 @@ CGTN俄语,https://stream1.freetv.fun/d770589ec9e5106747c7b2389bbc7c43c21c0a8146
 第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
 世界地理,http://www.xiaomo520.cn:4020/udp/239.252.219.93:5140
 世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+世界地理,http://www.qfly9236.cn:8888/rtp/239.253.92.113:8066
 女性时尚,http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ
 女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
 兵器科技,http://www.xiaomo520.cn:4020/udp/239.252.219.98:5140
 兵器科技,https://hls-gateway.vpstv.net/streams/708856.m3u8
 兵器科技,http://iptv.666230.xyz/iptv/jsyd.php/G_BINGQIKJ-CQ
@@ -1296,11 +1304,11 @@ CCTV14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
 动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
 动漫秀场,https://hls-gateway.vpstv.net/streams/708843.m3u8
-动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
 动漫秀场,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000023636/1.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=m
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-11.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-9.ctv
+动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-9.m3u8
 
 🎮游戏电竞,#genre#
 游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8
