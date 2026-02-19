@@ -2,6 +2,10 @@
 # This is the EPG subscription list used to generate M3U result channel menu information
 
 # 国内 EPG 源
+https://epg.112114.xyz/pp.xml
 http://epg.51zmt.top:8000/e.xml
-
-
+https://live.fanmingming.com/e.xml
+https://epg.pw/xmltv.html?lang=zh-hans 
+#海外EPG节目单
+https://epg.pw/test_channel_page.html
+http://epg.aptvapp.com/xml
