@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-11 22:48:57,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-06-12 08:06:12,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -270,6 +270,8 @@ CGTN俄语,https://stream1.freetv.fun/a3b0877061acab9b825f1a899cdfd9a819a7c4b511
 湖南卫视,https://live.metshop.top/bestv.php?id=hunanwshd8m/8000000
 湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
 湖南卫视,https://stream1.freetv.fun/e1910a9b3c2ca17b5fca11206d336d9d733bd97f158ac90ac2bd6d84f7ad7438.ctv
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
@@ -278,8 +280,6 @@ CGTN俄语,https://stream1.freetv.fun/a3b0877061acab9b825f1a899cdfd9a819a7c4b511
 浙江卫视,https://live.metshop.top/bestv.php?id=zjwshd8m/8000000
 浙江卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
 浙江卫视,https://stream1.freetv.fun/cfe6c386aeda1787f606df629248faf407b2351852e3ea6994357836a1643f5c.ctv
-浙江卫视,https://stream1.freetv.fun/e587e20cc47f9c1a0002a9e37b26e405f6c18855966cc937fc249d9bf23817f7.m3u8
-浙江卫视,https://stream1.freetv.fun/ebaafeab4acc1736e827216d9f96cd25816beb8667cd86696edbb5869a6a53b4.m3u8
 江苏卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
 江苏卫视,http://api.kkitv.itv888.cn:8080/hls/g1upm1u239/index.m3u8
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
@@ -299,7 +299,7 @@ CGTN俄语,https://stream1.freetv.fun/a3b0877061acab9b825f1a899cdfd9a819a7c4b511
 东方卫视,https://live.metshop.top/bestv.php?id=dfwshd8m/8000000
 东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
 东方卫视,https://stream1.freetv.fun/936a731d0f0738a903c2968c7e4d48c09cc4bf042ad218afe2d91decd1032359.m3u8
-东方卫视,https://stream1.freetv.fun/6a486bc1e17903686b01c744365eda30a4a370377a838e76fe009d147e06e99d.ctv
+东方卫视,https://stream1.freetv.fun/0f6f120d2808c7b4ee2e6b189c5cb00232d1694008d9f4438744bd32a3a1ead2.m3u8
 北京卫视,http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
@@ -684,16 +684,6 @@ CGTN俄语,https://stream1.freetv.fun/a3b0877061acab9b825f1a899cdfd9a819a7c4b511
 明珠台,https://stream1.freetv.fun/hang-zhou-ming-zhu-2.m3u8
 J2,http://r.jdshipin.com/ndGgS
 J2,http://r.jdshipin.com/Nr5jq
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=j2
-TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
-TVB Plus,https://hls-gateway.vpstv.net/streams/476932.m3u8
-TVB Plus,https://hls-gateway.vpstv.net/streams/476923.m3u8
-TVB Plus,http://r.jdshipin.com/Nr5jq
-TVB Plus,http://r.jdshipin.com/ndGgS
-TVB Plus,https://stream1.freetv.fun/tvb-j2-2.ctv
-TVB Plus,https://stream1.freetv.fun/391d21caea3269c8477f1c3fc0f24bbfded5d4f4fcf1d63d96b5cd8574792a34.ctv
-TVB Plus,https://stream1.freetv.fun/f154902517f39c01a56296587c62613fee9c99bc97e5dc6867da9a187c96aa13.m3u8
 TVB星河频道,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河频道,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河频道,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
@@ -704,6 +694,16 @@ TVB星河频道,http://r.jdshipin.com/sXuuD
 TVB星河频道,http://r.jdshipin.com/Voac4
 TVB星河频道,https://stream1.freetv.fun/118d732d4f031996089e9cb5e7608293aff2441309ebe0b5c6f3a94462ce2dcc.ctv
 TVB星河频道,https://stream1.freetv.fun/e1f2e0d3c534c1d7b467fa6bf2a647527e6841c6c2d76b14b29e22682fba93f1.ctv
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=j2
+TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
+TVB Plus,https://hls-gateway.vpstv.net/streams/476932.m3u8
+TVB Plus,https://hls-gateway.vpstv.net/streams/476923.m3u8
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,https://stream1.freetv.fun/tvb-j2-2.ctv
+TVB Plus,https://stream1.freetv.fun/391d21caea3269c8477f1c3fc0f24bbfded5d4f4fcf1d63d96b5cd8574792a34.ctv
+TVB Plus,https://stream1.freetv.fun/f154902517f39c01a56296587c62613fee9c99bc97e5dc6867da9a187c96aa13.m3u8
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻台,http://r.jdshipin.com/CkuBd
@@ -739,23 +739,23 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
 香港卫视,https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8
-有线新闻台,https://stream1.freetv.fun/85796ae4baf49d8d418849d5a8de11cc916a8c6e0c4b3671ee058e4516bd355d.m3u8
-有线新闻台,https://stream1.freetv.fun/ea058ab8cd9ae5ff67fea662e7f511166a26a5e95205248dddadb83c59998036.m3u8
-有线新闻台,https://stream1.freetv.fun/950f4efaa09c59b39332fa295ae36a591264ffb271b9beef138462274c3b7b14.m3u8
-有线新闻台,https://stream1.freetv.fun/a546fb9f46c4fbd26bfe5b62692b029b734cb147ea737d9bd0e525822acb1a45.m3u8
-有线新闻台,https://stream1.freetv.fun/37621f3d1d385bf204fa33bd1783610b135e7e7ca6175e1349fec9c4f662ba34.m3u8
-有线新闻台,https://stream1.freetv.fun/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
-Now新闻台,http://cdn.163189.xyz/163189/now
+港台电视 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+港台电视 32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
+港台电视 32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+港台电视 32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 港台电视 31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 港台电视 31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
 港台电视 31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 港台电视 31,https://cdn.163189.xyz/163189/rthk31
 港台电视 31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 港台电视 31,https://stream1.freetv.fun/3cc47ad6e45bb2421ef171289ace51b34a373c0fcfad09e31623ff034fc0ac24.m3u8
-港台电视 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-港台电视 32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
-港台电视 32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
-港台电视 32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+Now新闻台,http://cdn.163189.xyz/163189/now
+有线新闻台,https://stream1.freetv.fun/85796ae4baf49d8d418849d5a8de11cc916a8c6e0c4b3671ee058e4516bd355d.m3u8
+有线新闻台,https://stream1.freetv.fun/ea058ab8cd9ae5ff67fea662e7f511166a26a5e95205248dddadb83c59998036.m3u8
+有线新闻台,https://stream1.freetv.fun/950f4efaa09c59b39332fa295ae36a591264ffb271b9beef138462274c3b7b14.m3u8
+有线新闻台,https://stream1.freetv.fun/a546fb9f46c4fbd26bfe5b62692b029b734cb147ea737d9bd0e525822acb1a45.m3u8
+有线新闻台,https://stream1.freetv.fun/37621f3d1d385bf204fa33bd1783610b135e7e7ca6175e1349fec9c4f662ba34.m3u8
+有线新闻台,https://stream1.freetv.fun/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
 
 🇲🇴澳门频道,#genre#
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
@@ -793,6 +793,9 @@ Now新闻台,http://cdn.163189.xyz/163189/now
 华视,https://stream1.freetv.fun/c12a3bdd6741bbc1ffa235134d0b6a239f3418a339fa80838f91f1cb758eda90.ctv
 华视,https://stream1.freetv.fun/367981a07944e6d06d4e9992802bec7afe908dc5fd86cb64a3b3e40c4769cccf.m3u8
 华视,https://stream1.freetv.fun/60c715f5b961e2226107f69b2bab88a391c92f9f2444b64574cf6c450eb88b9e.m3u8
+民视第一台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+民视第一台,https://stream1.freetv.fun/f32a002e543373c0d454101f6ce00d8f8d6eba32f9fbbae0890b90eb381d800a.ctv
+民视第一台,https://stream1.freetv.fun/f668ecd157165f582308ee04d96df8d6d7df6f6a80666909725a5ff99730c59a.ctv
 民视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民视新闻台,https://stream1.freetv.fun/34d506e2605e076f621b2f7f788f773d3aa7a88784c506cbec1b71123650fbfc.m3u8
 民视新闻台,https://stream1.freetv.fun/2603220ae7a890e8e1027a6362e9aaec880131ce06da58c4e89365ce6d410772.m3u8
@@ -801,17 +804,14 @@ Now新闻台,http://cdn.163189.xyz/163189/now
 民视新闻台,https://stream1.freetv.fun/baf543e34265345362347b7ce3235c573fe01b147495c186a0ea7f98862f3b3a.ctv
 民视新闻台,https://stream1.freetv.fun/fffd54cb8b867dcf5861d222dc22653d5f56f0f01f9b1a3e5f540fbc592a2760.ctv
 民视新闻台,https://stream1.freetv.fun/33ae9aa2523492a0deb1bebba74b646b746cf674d50b753e7c4c06305d3fe40b.ctv
-民视第一台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-民视第一台,https://stream1.freetv.fun/f32a002e543373c0d454101f6ce00d8f8d6eba32f9fbbae0890b90eb381d800a.ctv
-民视第一台,https://stream1.freetv.fun/f668ecd157165f582308ee04d96df8d6d7df6f6a80666909725a5ff99730c59a.ctv
+公视,https://stream1.freetv.fun/2f9fb003798195324f74f228e4c409c0f5f2fc6f685a9852b171f98d235ec49c.ctv
 TVBS,https://stream1.freetv.fun/d28c1980af80d5fd433f5f9eff21e59078d29d80b3e6a5bd485786d6072fc409.m3u8
 TVBS,https://stream1.freetv.fun/a969d7787c96c8a7a9cf6f542343848dc7beb7475d548e093d53d2e9cde7d70b.ctv
 民视,https://stream1.freetv.fun/0079988bc2d8480a6183499774a232fc11657753bcb7d97a8dee88b362c57815.ctv
 民视,https://stream1.freetv.fun/a371322b7c9e6a92b322f51e1b3d3948ac414988b725ac9233a77698725f3aac.ctv
 民视,https://stream1.freetv.fun/ed33a7dbe6cc7ae35601519b5f4f9d4e36648444d8d3296d1333b0756fd7b734.m3u8
-公视,https://stream1.freetv.fun/2f9fb003798195324f74f228e4c409c0f5f2fc6f685a9852b171f98d235ec49c.ctv
-TVBS新闻台,https://stream1.freetv.fun/fe6a507303ec6ae76614a96ee48f5844ea4e7636314c1011a22aa4af8269a7a1.ctv
 TVBS欢乐台,https://stream1.freetv.fun/be65f8402ac3e23fb77343c1f5947382fdcc0cab74716dcbeb711d2b50e04dab.ctv
+TVBS新闻台,https://stream1.freetv.fun/fe6a507303ec6ae76614a96ee48f5844ea4e7636314c1011a22aa4af8269a7a1.ctv
 中天新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 中天新闻台,https://stream1.freetv.fun/26909b95e0b48a92beff981e4af1a947e0f4eaf4515fb45d81de571b7a5aaeb0.m3u8
@@ -822,13 +822,18 @@ TVBS欢乐台,https://stream1.freetv.fun/be65f8402ac3e23fb77343c1f5947382fdcc0ca
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
 三立新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+东森综合台,https://hls-gateway.vpstv.net/streams/476987.m3u8
 东森新闻台,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
 东森新闻台,https://stream1.freetv.fun/7c87d838783dd3b78602e013b57a03b913543fbabc109ee88d85a0b89bd7fff1.ctv
 东森新闻台,https://stream1.freetv.fun/715e6a8389e31f9c8c51077b40c828e1255546d9202a213253c0cd8a5c687369.ctv
-东森综合台,https://hls-gateway.vpstv.net/streams/476987.m3u8
 东森电影台,https://hls-gateway.vpstv.net/streams/476995.m3u8
 东森电影台,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 三立台湾台,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
+寰宇新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新闻台,https://stream1.freetv.fun/13300dfea952c75aa1e5224308a7721600e4dd582257c548582e82172e76c293.ctv
+寰宇新闻台,https://stream1.freetv.fun/cc3ac399d86099e5a3206d38ac3738ad97285b606895947d3786fbcd544081fd.m3u8
+寰宇新闻台,https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.m3u8
+寰宇新闻台,https://stream1.freetv.fun/7fcd19485260298737eeb56138cc149f0be0cc175bf93721e4074bfb2b63fbe0.m3u8
 寰宇新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻台,https://stream1.freetv.fun/13300dfea952c75aa1e5224308a7721600e4dd582257c548582e82172e76c293.ctv
 寰宇新闻台,https://stream1.freetv.fun/cc3ac399d86099e5a3206d38ac3738ad97285b606895947d3786fbcd544081fd.m3u8
@@ -838,13 +843,10 @@ TVBS欢乐台,https://stream1.freetv.fun/be65f8402ac3e23fb77343c1f5947382fdcc0ca
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.ctv
-龙华偶像,http://cdn8.163189.xyz/163189/lhox
-龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华日韩,http://cdn8.163189.xyz/163189/lhrh
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龙华洋片,http://cdn8.163189.xyz/163189/lhyp
-龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-龙华洋片,https://stream1.freetv.fun/50dbebf9da6dd967fc756d63c13404595924651e2b5ba6d99039e932466b0620.ctv
+龙华偶像,http://cdn8.163189.xyz/163189/lhox
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华经典,http://cdn8.163189.xyz/163189/lhjd
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华经典,https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv
@@ -863,6 +865,9 @@ TVBS欢乐台,https://stream1.freetv.fun/be65f8402ac3e23fb77343c1f5947382fdcc0ca
 纬来电影台,https://hls-gateway.vpstv.net/streams/477063.m3u8
 纬来电影台,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影台,https://stream1.freetv.fun/wei-lai-dian-ying-3.m3u8
+龙华洋片,http://cdn8.163189.xyz/163189/lhyp
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+龙华洋片,https://stream1.freetv.fun/50dbebf9da6dd967fc756d63c13404595924651e2b5ba6d99039e932466b0620.ctv
 MOMO亲子台,https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7ae62429bcef1.m3u8
 
 🎬电影频道,#genre#
